@@ -1,0 +1,8 @@
+# Python cache files
+__pycache__/
+
+# Database file (local data GitHub pe nahi jana chahiye)
+*.db
+
+# Virtual environment (agar aap use karein)
+venv/
